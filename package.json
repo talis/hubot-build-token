@@ -1,0 +1,29 @@
+{
+  "name": "hubot-build-token",
+  "description": "A build token script for hubot",
+  "version": "0.0.1",
+  "author": "Malcolm Landon <malcolm@landonsonline.me.uk>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talis/hubot-build-token.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/talis/hubot-build-token/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "hubot-redis-brain": "~0.0"
+  },
+
+  "main": "index.coffee"
+
+}
