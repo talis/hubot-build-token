@@ -25,6 +25,7 @@ module.exports = (robot) ->
     2: {project: "dc-app", held_by: "no one"}
   }
 
+  # map hipchat usernames to github usernames here
   username_mappings = {
     1: {hipchat: "RossSinger", github: "rsinger"},
     2: {hipchat: "RichardTattersall", github: "lordtatty"},
